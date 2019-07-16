@@ -1,1 +1,1 @@
-# Vis-o-Computacional---Sistemas-Multimidia
+# Computer Vision - Multimedia Systems
